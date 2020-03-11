@@ -1,0 +1,11 @@
+C:\Users\derek\Desktop\Projects\С#\inordic\lessson1\bin\Debug\netcoreapp3.1\lessson1.exe
+C:\Users\derek\Desktop\Projects\С#\inordic\lessson1\bin\Debug\netcoreapp3.1\lessson1.deps.json
+C:\Users\derek\Desktop\Projects\С#\inordic\lessson1\bin\Debug\netcoreapp3.1\lessson1.runtimeconfig.json
+C:\Users\derek\Desktop\Projects\С#\inordic\lessson1\bin\Debug\netcoreapp3.1\lessson1.runtimeconfig.dev.json
+C:\Users\derek\Desktop\Projects\С#\inordic\lessson1\bin\Debug\netcoreapp3.1\lessson1.dll
+C:\Users\derek\Desktop\Projects\С#\inordic\lessson1\bin\Debug\netcoreapp3.1\lessson1.pdb
+C:\Users\derek\Desktop\Projects\С#\inordic\lessson1\obj\Debug\netcoreapp3.1\lessson1.csprojAssemblyReference.cache
+C:\Users\derek\Desktop\Projects\С#\inordic\lessson1\obj\Debug\netcoreapp3.1\lessson1.AssemblyInfoInputs.cache
+C:\Users\derek\Desktop\Projects\С#\inordic\lessson1\obj\Debug\netcoreapp3.1\lessson1.AssemblyInfo.cs
+C:\Users\derek\Desktop\Projects\С#\inordic\lessson1\obj\Debug\netcoreapp3.1\lessson1.dll
+C:\Users\derek\Desktop\Projects\С#\inordic\lessson1\obj\Debug\netcoreapp3.1\lessson1.pdb
